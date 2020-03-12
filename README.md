@@ -1,10 +1,9 @@
-
-# <center> ---== Drugs And Herbal ==--- </center>
+<h1> ---== Drugs And Herbal ==--- </h1>
 <br><b>Coder: Andika Sagala</b><br>
 <b>Date: March, 2020 </b><br>
 <br><br>
 
-<h1> in progress of development... coming soon.. </h1>
+<h3> in progress of development... coming soon.. </h3>
 
 <br><br>
 <b>Version v0.01a </b><br>
