@@ -1,7 +1,7 @@
 
-# ---== Drugs And Herbal ==---
-Coder: Andika Sagala<br>
-Date: March, 2020 <br>
+# <center> ---== Drugs And Herbal ==--- </center>
+<br><b>Coder: Andika Sagala</b><br>
+<b>Date: March, 2020 </b><br>
 <br><br>
 
 <h1> in progress of development... coming soon.. </h1>
