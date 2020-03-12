@@ -6,7 +6,7 @@
 <h3> in progress of development... coming soon.. </h3>
 
 <br><br>
-<b>Version v0.01a </b><br>
+<b>version v0.01a </b><br>
 Drugs And Herbal software is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method. <br>
 <br><br><br>
 
