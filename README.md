@@ -49,7 +49,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <h2>Next Features:</h2><br>
 - Strict privacy when using Drugs And Herbal software <br>
 - Encrypted connection <br>
-
+- Will be listed on website <br>
 
 
 
