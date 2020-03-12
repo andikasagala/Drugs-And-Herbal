@@ -7,7 +7,7 @@
 
 <br><br>
 <b>Version v0.01a </b><br>
-Drugs And Herbal software is open source. It is free, means you can develop nor rewrite it into another programming language. <br>
+Drugs And Herbal software is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method. <br>
 <br><br><br>
 
 <h2>Purposes:</h2><br>
