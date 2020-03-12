@@ -15,13 +15,19 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - Guide for your Mens sana in corpore sano<br>
 - Find out what is your Medic Doctor's Prescription about. ie: side effect, contradiction, complication, etc<br>
 - Share your new herbal recipes with another users and community<br>
-- Avoid wrong Prescription/Drugs whether <br>
-- Add more knowledge about your drugs and herbal which you used<br>
+- Avoid wrong Prescription/Drugs whether your doctor gave it <br>
+- Add more knowledge about your drugs and herbal which you used before you consume it<br>
 <br><br><br>
 <h2>Programming Languages:</h2><br>
 - C<br>
 - C#<br>
 - C++<br>
+<br><br><br>
+<h2>Features:</h2><br>
+- Many Drugs informations. IE: side effect, contradiction, complication, etc <br>
+- Sharing new herbal recipes, include video feature <br>
+- Community for solution with features: Forum, Chat System <br>
+ 
 
 <br><br><br>
 <h2>Tips:</h2><br>
