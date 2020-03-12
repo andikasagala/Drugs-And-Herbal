@@ -24,16 +24,16 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - C++<br>
 <br><br><br>
 <h2>Features:</h2><br>
-- Many Drugs informations. IE: side effect, contradiction, complication, etc <br>
+- Many Drugs informations. IE: drugs, herbal, side effect, contradiction, complication, etc <br>
 - Sharing new herbal recipes, include video feature <br>
-- Community for solution with features: Forum, Chat System <br>
+- Community for solution with features: Forum, Chat System. With forum and chat system you can ask another users nor share with another users <br>
 - Back sound of the software to keep you relax when using Drugs and Herbal software ( Violin and Accoustic Guitar recorded by coder ) <br>
 - No spy, no logs, no user registration <br>
  
 
 <br><br><br>
 <h2>Tips:</h2><br>
-- It is better to find out first about your Prescription/Drugs before you consume it. ie: side effect, contradiction, complication, etc<br>
+- It is better to find out first about your Prescription/Drugs before you consume it. IE: drugs, herbal, side effect, contradiction, complication, etc<br>
  <br> <br> <br>
 <h2>Warnings: </h2>
 -  Drugs and Herbal software only give you informations about legal drugs which approved by the Government. Any illegal drugs nor still in Science Laboratory Experiment drugs will not be listed
