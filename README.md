@@ -48,8 +48,9 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 
 <h2>Abstract Art:</h2><br>
 - Science: https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano <br>
-- Music: https://www.youtube.com/watch?v=k4V3Mo61fJM  "Lights will guide you home"<br>
+- Music: https://www.youtube.com/watch?v=k4V3Mo61fJM  "Lights will guide you home" ( will arrange by coder using Violin and Accoustic Guitar later )<br>
 - Reading: https://en.wikipedia.org/wiki/Zeus "Zeus's Lights will guide you home"<br>
+- Sample Zeus's Light Science ref: https://www.youtube.com/watch?v=CxTSzVofgK8 <br>
 <br><br><br>
 
 <h2>Tips:</h2><br>
