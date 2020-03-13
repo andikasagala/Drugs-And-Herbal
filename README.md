@@ -48,8 +48,9 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <h2>Tips:</h2><br>
 - It is better to find out first about your Prescription/Drugs before you consume it. IE: drugs, herbal, side effect, contradiction, complication, etc<br>
  <br> <br> <br>
-<h2>Warnings: </h2>
--  Drugs and Herbal software only give you informations about legal drugs which approved by the Government. Any illegal drugs nor still in Science Laboratory Experiment drugs will not be listed
+<h2>Warnings: </h2><br>
+-  Drugs and Herbal software only give you informations about legal drugs which approved by the Government. Any illegal drugs nor still in Science Laboratory Experiment drugs will not be listed<br>
+- Drugs and Herbal software is only a tool for your Mens sana in corpore sano (reference: https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano) guide. You can not use it as a 911/emergency alternative<br>
 
 
 
