@@ -45,6 +45,14 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - Dangerous herbal is not allowed. ie: Opium ( ref: https://en.wikipedia.org/wiki/Opium ), and many others<br>
 
 <br><br><br>
+
+<h2>Abstract Art:</h2><br>
+- https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano<br>
+- "Herculis aerumnas credat saevosque labores"<br>
+- Music: https://www.youtube.com/watch?v=k4V3Mo61fJM  "Lights will guide you home"<br>
+- Reading: https://en.wikipedia.org/wiki/Zeus "Zeus's Lights will guide you home"<br>
+<br><br><br>
+
 <h2>Tips:</h2><br>
 - It is better to find out first about your Prescription/Drugs before you consume it. IE: drugs, herbal, side effect, contradiction, complication, etc<br>
  <br> <br> <br>
