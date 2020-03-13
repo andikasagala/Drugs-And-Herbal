@@ -47,8 +47,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <br><br><br>
 
 <h2>Abstract Art:</h2><br>
-- Science: https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano "Herculis aerumnas credat saevosque labores / the woes and hard labors of Hercules better than
-"<br>
+- Science: https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano <br>
 - Music: https://www.youtube.com/watch?v=k4V3Mo61fJM  "Lights will guide you home"<br>
 - Reading: https://en.wikipedia.org/wiki/Zeus "Zeus's Lights will guide you home"<br>
 <br><br><br>
