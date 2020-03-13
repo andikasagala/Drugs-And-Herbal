@@ -51,6 +51,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - Music: https://www.youtube.com/watch?v=k4V3Mo61fJM  "Lights will guide you home" ( will arrange by coder using Violin and Accoustic Guitar later )<br>
 - Reading: https://en.wikipedia.org/wiki/Zeus "Zeus's Lights will guide you home"<br>
 - Sample Zeus's Light Science ref: https://www.youtube.com/watch?v=3wxWNAM8Cso <br>
+- Based on World War I ( ref: https://en.wikipedia.org/wiki/World_War_I ) and World War II ( ref: https://en.wikipedia.org/wiki/World_War_II ) <br>
 <br><br><br>
 
 <h2>Tips:</h2><br>
