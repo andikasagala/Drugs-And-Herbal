@@ -11,6 +11,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <br><br><br>
 
 <h2>Purposes:</h2><br>
+- For everyone <br>
 - Scientific <br>
 - Additional guide for your Mens sana in corpore sano ( reference: https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano ) <br>
 - Find out what is your Medic Doctor's Prescription about. ie: side effect, contradiction, complication, etc<br>
