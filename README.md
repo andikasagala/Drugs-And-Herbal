@@ -48,7 +48,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 
 <h2>Abstract Art:</h2><br>
 - Science: https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano <br>
-- Music: https://www.youtube.com/watch?v=k4V3Mo61fJM  "Lights will guide you home" ( will arrange by coder using Violin mode Blind Fold, sample: https://www.youtube.com/watch?v=B6UuBiMFmnw and Accoustic Guitar later )<br>
+- Music: https://www.youtube.com/watch?v=k4V3Mo61fJM  "Lights will guide you home" and https://www.youtube.com/watch?v=QhOFg_3RV5Q "Endless Blood Rain"( will arrange by coder using Violin mode Blind Fold, sample: https://www.youtube.com/watch?v=B6UuBiMFmnw and Accoustic Guitar later )<br>
 - Reading: https://en.wikipedia.org/wiki/Zeus "Zeus's Lights will guide you home"<br>
 - Sample Zeus's Light in Science ref: https://www.youtube.com/watch?v=3wxWNAM8Cso <br>
 - Based on World War I ( ref: https://en.wikipedia.org/wiki/World_War_I ) and World War II ( ref: https://en.wikipedia.org/wiki/World_War_II ) <br>
