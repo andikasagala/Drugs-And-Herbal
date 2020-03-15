@@ -35,7 +35,8 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <br> <br><br>
 
 <h2>New Herbal Recipes rules:</h2><br>
-- Complete ingredients<br>
+- Complete ingredients ( name in scientific. ie: garlic: "Allium sativum" , Green tea: "Camellia sinensis
+"<br>
 - How to cook/make it<br>
 - The benefits<br>
 - The side effect, interactions, what should avoid when consume your new herbal recipe<br>
