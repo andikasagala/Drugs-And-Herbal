@@ -64,7 +64,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <br><br><br>
 <h2>Next Features:</h2><br>
 - Many user interface languages <br>
-- Drugs description languages: French, Italian, Romanian, Spanish, Germany, Portuguese  <br>
+- Drugs description languages: English, French, Italian, Romanian, Spanish, Germany, Portuguese  <br>
 - Strict privacy when using Drugs And Herbal software <br>
 - Encrypted connection <br>
 - Will be listed on website <br>
