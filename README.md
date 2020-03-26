@@ -49,7 +49,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 
 <h2>Tips:</h2><br>
 - It is better to find out first about your Prescription/Drugs before you consume it. IE: drugs, herbal, side effect,  interactions, etc<br>
-- Use herbal for daily natural health treatment, and drugs for emergency health treatment <br>
+- Use herbal for daily natural health treatment ( include vegetables and fruits ) , and drugs for emergency health treatment <br>
  <br> <br> <br>
 <h2>Warnings: </h2><br>
 -  Drugs and Herbal software only give you informations about legal drugs which approved by the Government. Any illegal drugs nor still in Science Laboratory Experiment drugs will not be listed<br>
