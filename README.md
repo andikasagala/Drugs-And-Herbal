@@ -61,7 +61,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <h2>Operating System Compatibles list:</h2><br>
 - Windows OS<br>
 - Linux<br>
-- Unix<br>
+- Another unix OS<br>
 <br><br><br>
 <h2>Next Features:</h2><br>
 - Many user interface languages <br>
