@@ -10,6 +10,10 @@
 Drugs And Herbal software is open source. It is free, means you can develop nor rewrite it into another programming language with your own thinking method. <br>
 <br><br><br>
 
+<h3>Latin guides:</h3>
+- mens sana in corpore sano <br>
+- ars longa, vita brevis <br>
+
 <h2>Purposes:</h2><br>
 - Health treatment <br>
 - For anyone<br>
