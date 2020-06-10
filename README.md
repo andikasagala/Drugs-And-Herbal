@@ -13,6 +13,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 <h3>Latin guides:</h3>
 - mens sana in corpore sano <br>
 - ars longa, vita brevis ( abstract art/art is long, life is short ) <br>
+ <br> <br> <br>
 
 <h2>Purposes:</h2><br>
 - Health treatment <br>
