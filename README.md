@@ -39,17 +39,19 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - No spy, no logs, no user registration <br>
 <br> <br><br>
 
-<h2>New Herbal Recipes rules:</h2><br>
-- Complete ingredients ( name in scientific. ie: garlic: "Allium sativum" , Green tea: "Camellia sinensis )
+<h2>New Herbal Recipes rules/requirements:</h2><br>
+- Your herbal recipe name <br>
+- Complete ingredients ( name in scientific. ie: garlic: "Allium sativum" , Green tea: "Camellia sinensis , you can use this tool link: https://github.com/andikasagala/Scientific-Plants )
 "<br>
 - How to cook/make it<br>
 - The benefits<br>
 - The side effect, interactions, what should avoid when consume your new herbal recipe<br>
 - How to consume it<br>
 - Videos<br>
-- Your new herbal recipe officially will be listed in 'Drugs And Herbal' software after test and positive review by more than 900 of 1000 users ( 90% above positive. Reviewer's video must be included )  <br>
+- Your new herbal recipe officially will be listed in 'Drugs And Herbal' software after test and positive review by more than 900 of 1000 users ( 90% above positive. Reviewer's video must be included ). The license is owned by the herbal creator <br>
 - Dangerous herbal is not allowed. ie: Opium ( ref: https://en.wikipedia.org/wiki/Opium , https://en.wikipedia.org/wiki/Cannabis_sativa ), and many others<br>
 - Health treatment for what disease <br>
+
 
 <br><br><br>
 
