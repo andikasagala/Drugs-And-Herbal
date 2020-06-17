@@ -37,6 +37,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - Community for solutions with features: Forum, Chat System. With forum and chat system you can ask another users nor share with another users <br>
 - Back sound of the software to keep you relax when using Drugs and Herbal software ( Violin made/recorded by coder ) <br>
 - No spy, no logs, no user registration <br>
+- Law protection for the herbal <br>
 <br> <br><br>
 
 <h2>New Herbal Recipes rules/requirements:</h2><br>
