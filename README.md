@@ -47,7 +47,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - The side effect, interactions, what should avoid when consume your new herbal recipe<br>
 - How to consume it<br>
 - Videos<br>
-- Your new herbal recipe officially will be listed in 'Drugs And Herbal' software after test and positive review by more than 900 of 1000 users ( 90% above positive. Reviewer's video must included )  <br>
+- Your new herbal recipe officially will be listed in 'Drugs And Herbal' software after test and positive review by more than 900 of 1000 users ( 90% above positive. Reviewer's video must be included )  <br>
 - Dangerous herbal is not allowed. ie: Opium ( ref: https://en.wikipedia.org/wiki/Opium , https://en.wikipedia.org/wiki/Cannabis_sativa ), and many others<br>
 - Health treatment for what disease <br>
 
