@@ -74,7 +74,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - Strict privacy when using Drugs And Herbal software <br>
 - Encrypted connection <br>
 - CDN technology ( using nearest network connect to Drugs And Herbal's server ) <br>
-- Will be listed on website <br>
+- Will be listed on website www.scientificsoftwares.technology <br>
 
 
 
