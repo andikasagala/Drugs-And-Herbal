@@ -12,7 +12,7 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 
 <h3>Latin guides:</h3>
 - mens sana in corpore sano ( a healthy mind in a healthy body ) <br>
-- ars longa, vita brevis ( abstract art/art is long, life is short. sample: https://www.youtube.com/watch?v=8wwtbQXTugo |  "art is long, life is short" no, it meant abstract art. not ordinary art. same like this movie scene. They are darkness violinist. That is the prove that humans are part of the darkness. Beside, that was just an accident. More worst than this if lights coming.  Science was lose in this movie scene, titanic accident real. science won't lose. do not panic. there are many scientists out there. Sample lights disaster: https://www.youtube.com/watch?v=4jXVDeUHMSA ) <br>
+
  <br> <br> <br>
 
 <h2>Purposes:</h2><br>
