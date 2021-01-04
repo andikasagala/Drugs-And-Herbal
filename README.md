@@ -80,7 +80,16 @@ Drugs And Herbal software is open source. It is free, means you can develop nor 
 - CDN technology ( using nearest network connect to Drugs And Herbal's server ) <br>
 - Will be listed on website www.scientificsoftwares.technology <br>
 
+<br><br>
+<h3>Warning !!! </h3>
 
+
+This source code is not available for the terrorist countries list below :
+- Africa Continent
+- Afghanistan, Sahrawi Arab Democratic Republic, Palestine, Armenia, Azerbaijan, Bahrain, Bangladesh, Brunei, Indonesia, Iran, Iraq, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Malaysia, Lebanon, Maldives, Oman, Pakistan, Qatar, Saudi Arabia, Syria, Tajikistan, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Yemen, Kazakhstan, Papua New Guinea, Federated States of Micronesia, Vanuatu, Tuvalu, Solomon Islands
+, Samoa, Nauru
+
+<br><br>
 
 
 <br><br>
