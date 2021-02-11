@@ -1,5 +1,5 @@
 <h1> ---== Drugs And Herbal ==--- </h1>
-<b>Coder: Andi Sagala ( Andy Charles Poenas )</b><br>
+<b>Coder: Andi Sagala ( Andika Sagala )</b><br>
 <b>Date: March, 2020 </b><br>
 <br><br>
 
